@@ -1,0 +1,6 @@
+D:\home\C#_Tutorial\gh\GroupObjectCleaner\GroupObjectCleanerPj\obj\Debug\GroupObjectCleanerPj.csproj.AssemblyReference.cache
+D:\home\C#_Tutorial\gh\GroupObjectCleaner\GroupObjectCleanerPj\obj\Debug\GroupObjectCleanerPj.csproj.CoreCompileInputs.cache
+D:\home\C#_Tutorial\gh\GroupObjectCleaner\GroupObjectCleanerPj\bin\GroupObjectCleanerPj.dll
+D:\home\C#_Tutorial\gh\GroupObjectCleaner\GroupObjectCleanerPj\bin\GroupObjectCleanerPj.pdb
+D:\home\C#_Tutorial\gh\GroupObjectCleaner\GroupObjectCleanerPj\obj\Debug\GroupObjectCleanerPj.dll
+D:\home\C#_Tutorial\gh\GroupObjectCleaner\GroupObjectCleanerPj\obj\Debug\GroupObjectCleanerPj.pdb
