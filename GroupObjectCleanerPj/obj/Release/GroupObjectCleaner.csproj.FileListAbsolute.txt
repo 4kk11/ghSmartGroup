@@ -1,0 +1,8 @@
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\bin\GroupObjectCleaner.dll
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\bin\GroupObjectCleaner.pdb
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\obj\Release\GroupObjectCleaner.csproj.AssemblyReference.cache
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\obj\Release\GroupObjectCleaner.Properties.Resources.resources
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\obj\Release\GroupObjectCleaner.csproj.GenerateResource.cache
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\obj\Release\GroupObjectCleaner.csproj.CoreCompileInputs.cache
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\obj\Release\GroupObjectCleaner.dll
+D:\home\GH_Plugins\GroupObjectCleaner\GroupObjectCleanerPj\obj\Release\GroupObjectCleaner.pdb
