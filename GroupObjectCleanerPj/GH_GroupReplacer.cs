@@ -160,7 +160,7 @@ namespace GroupObjectCleaner
 			}		
 			GrasshopperDocument.UndoServer.MergeRecords(mergeCount);
 			
-			////MessageBox.Show("Object Deleted");
+			MessageBox.Show("Object Deleted");
 		}
 
 		private static Color GetRandomColor(Random r)
