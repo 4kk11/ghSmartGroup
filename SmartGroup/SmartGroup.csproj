@@ -60,7 +60,7 @@
     <Compile Include="GH_GroupReplacer.cs" />
     <Compile Include="GH_NewGroup.cs" />
     <Compile Include="GOC_MenuItems.cs" />
-    <Compile Include="GroupObjectCleaner.cs" />
+    <Compile Include="SmartGroup.cs" />
     <Compile Include="Map.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">

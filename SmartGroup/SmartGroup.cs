@@ -53,7 +53,7 @@ namespace SmartGroup
 	
 
 
-	public class GroupObjectCleanerInfo : GH_AssemblyInfo
+	public class SmartGroupInfo : GH_AssemblyInfo
 	{
 		public override string Name => " GroupObjectCleaner";
 		public override Bitmap Icon => null;
