@@ -8,8 +8,8 @@
     <ProjectGuid>{D66861D5-AECC-49D4-A40B-C1913F15C28D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GroupObjectCleaner</RootNamespace>
-    <AssemblyName>GroupObjectCleaner</AssemblyName>
+    <RootNamespace>SmartGroup</RootNamespace>
+    <AssemblyName>SmartGroup</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>

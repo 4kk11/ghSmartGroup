@@ -10,7 +10,7 @@ using Grasshopper.Kernel.Special;
 using Grasshopper.Kernel.Parameters;
 using System.Linq;
 using GH_IO.Serialization;
-namespace GroupObjectCleaner
+namespace SmartGroup
 {
 	class TypeName2Param
 	{

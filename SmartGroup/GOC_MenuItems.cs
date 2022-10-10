@@ -10,7 +10,7 @@ using Grasshopper.Kernel.Undo;
 using Grasshopper.Kernel.Special;
 using System.Linq;
 
-namespace GroupObjectCleaner
+namespace SmartGroup
 {
 	class GOC_MenuItems
 	{

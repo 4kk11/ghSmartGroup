@@ -13,7 +13,7 @@ using Grasshopper.Kernel.Types;
 using System.Linq;
 using GH_IO.Serialization;
 
-namespace GroupObjectCleaner
+namespace SmartGroup
 {
 	public class GH_NewGroup : GH_Group
 	{

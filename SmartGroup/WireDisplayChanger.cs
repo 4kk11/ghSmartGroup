@@ -11,7 +11,7 @@ using Grasshopper.Kernel.Special;
 using Grasshopper.Kernel.Undo;
 using System.Linq;
 
-namespace GroupObjectCleaner
+namespace SmartGroup
 {
 	class WireDisplayChanger
 	{

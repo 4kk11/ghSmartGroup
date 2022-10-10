@@ -10,7 +10,7 @@ using Grasshopper.Kernel.Special;
 using System.Linq;
 
 
-namespace GroupObjectCleaner
+namespace SmartGroup
 {
 	public class GOC_AssemblyPriority : GH_AssemblyPriority
 	{

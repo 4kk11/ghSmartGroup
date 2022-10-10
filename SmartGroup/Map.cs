@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Grasshopper.Kernel;
 
-namespace GroupObjectCleaner
+namespace SmartGroup
 {
 	public class Map<TKey, TValue> : Dictionary<TKey, TValue>
 	{

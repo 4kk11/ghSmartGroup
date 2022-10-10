@@ -1,0 +1,8 @@
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\bin\SmartGroup.dll
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\bin\SmartGroup.pdb
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\obj\Release\SmartGroup.csproj.AssemblyReference.cache
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\obj\Release\SmartGroup.Properties.Resources.resources
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\obj\Release\SmartGroup.csproj.GenerateResource.cache
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\obj\Release\SmartGroup.csproj.CoreCompileInputs.cache
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\obj\Release\SmartGroup.dll
+D:\home\GH_Plugins\GroupObjectCleaner\SmartGroup\obj\Release\SmartGroup.pdb
